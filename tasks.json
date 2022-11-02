@@ -1,0 +1,11 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  "setupTasks": [],
+  "tasks": {
+    "sh run.sh": {
+      "name": "sh run.sh",
+      "command": "sh run.sh",
+      "runAtStart": true
+    }
+  }
+}
